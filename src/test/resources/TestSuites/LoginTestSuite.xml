@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LoginTestSuite" verbose="1">
+<test name="LoginTest">
+<classes>
+<class name="infosys_maven_Pro.LoginTest">
+</class>
+</classes>
+</test>
+</suite>
